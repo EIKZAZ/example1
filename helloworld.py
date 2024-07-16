@@ -1,1 +1,1 @@
-https://github.com/EIKZAZ/pyneng-examples-exercises-en.gii
+print("Hi World!")
